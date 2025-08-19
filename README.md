@@ -40,7 +40,7 @@
 ---
 
 ## 📫 Como me encontrar
-- LinkedIn: [Jussara Cristina](https://www.linkedin.com/in/jussara-cristina-93597a296/)
+- LinkedIn: [Jussara Cristina](www.linkedin.com/in/jussara-cristinasilva)
 - Email: jussarasilva2203@gmail.com
 - GitHub: [JussaraSilva](https://github.com/JussaraSilva)
 
