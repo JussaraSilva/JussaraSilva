@@ -31,11 +31,11 @@
 ## 📂 Projetos em destaque
 | Projeto | Descrição |
 |---------|-----------|
-| **Leitor de PDF customizado** | Leitura interativa com modo claro/escuro, biblioteca e navegação entre páginas |
-| **Editor HTML/CSS/JS Live** | Área de edição, preview e integração com vídeos para suporte a videoaulas |
-| **Loja Virtual Offline** | Mini e-commerce com produtos estáticos e carrinho usando `localStorage` |
-| **Calculadora Financeira** | Calcula gastos e investimentos com interface simples e interativa |
-| **Quiz de Geografia com Mapa Interativo** | Teste de conhecimentos geográficos com mapas dinâmicos |
+| **[Leitor de PDF customizado](https://github.com/JussaraSilva/SitePDFReader)** | Leitura interativa com modo claro/escuro, biblioteca e navegação entre páginas |
+| **[Editor HTML/CSS/JS Live](https://github.com/JussaraSilva/VueCode)** | Área de edição, preview e integração com vídeos para suporte a videoaulas |
+| **[Loja Virtual Offline](https://github.com/JussaraSilva/EcommerceWebsite)** | Mini e-commerce com produtos estáticos e carrinho usando `localStorage` |
+| **[Calculadora Financeira](https://github.com/JussaraSilva/Projeto-SmartPocket)** | Calcula gastos e investimentos com interface simples e interativa |
+| **Quiz de Geografia com Mapa Interativo - Ainda não iniciado** | Teste de conhecimentos geográficos com mapas dinâmicos |
 
 ---
 
